@@ -1,0 +1,14 @@
+.footer{
+    background-color: black;
+    color: #757575;
+    padding: 40px 30px;
+    text-align: left;
+}
+.footer ul{
+    text-decoration: none;
+}
+.footer ul li{
+    padding: 6px;
+    list-style: none;
+    
+}
